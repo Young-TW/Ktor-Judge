@@ -1,0 +1,1 @@
+class IdAlreadyExistedException(message: String? = "Id is already existed") : Exception(message)
